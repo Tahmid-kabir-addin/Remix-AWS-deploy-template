@@ -1,5 +1,9 @@
 node_modules
 
-/.cache
-/build
+/public/build
+/server/index.mjs
+/server/index.mjs.map
+/server/metafile.*
+/server/version.txt
+preferences.arc
 .env
